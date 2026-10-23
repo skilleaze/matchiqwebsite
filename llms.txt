@@ -1,0 +1,9 @@
+# Matchiq
+
+> Matchiq by Skilleaze matches you to the right jobs with AI and auto-applies with ATS-ready, tailored CVs. Launching soon. Join the waitlist for early access.
+
+Matchiq is an AI-powered job matching and auto-applying platform built by Skilleaze Global LLP (Puttur, Karnataka, India). Status: coming soon.
+
+- Website: https://matchiq.skilleaze.com/
+- Parent company: https://www.skilleaze.com/
+- Contact: hello@skilleaze.com
